@@ -1,4 +1,4 @@
-name = "CMR"
+name = "CommonMetadataRepository"
 uuid = "8c77abda-5689-4077-b7f2-df7b4d4bda42"
 authors = ["Gregory Halverson <gregory.h.halverson@jpl.nasa.gov>"]
 version = "0.1.0"
