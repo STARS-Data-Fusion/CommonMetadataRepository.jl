@@ -1,4 +1,4 @@
-module CMR
+module CommonMetadataRepository
 
 using URIs
 using Crayons.Box
